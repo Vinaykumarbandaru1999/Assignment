@@ -1,0 +1,4 @@
+Step1: pwd     //to know the current path
+Step2: cd /path/to/script/directory      //to navigate to the correct directory.
+Step3:chmod +x vehicle_info.sh   //here vehicle_info is the current file name.
+Step4: ./vehicle_info.sh /path/to/your/vehicle_info.txt. new_manufacturer    //here the vehicle_info.txt is the current text file and the new_manufacturer is the name which we want to change.
